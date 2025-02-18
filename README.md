@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jupiiiii
 - 👀 I’m interested in cryptocurrencies and digital monetary system.
-- 🌱 I’m currently learning blockchain and artifitial intelligence at Marwadi University.
+- 🌱 I’m a computer engineer in Artificial intelligence field
 - 💞️ I’m looking to collaborate on ant creative ideas whcih are potentially imminent to change the world.
-- 📫 How to reach me telegram @jupi3
+- 📫 How to reach me telegram @AbyssiniaCo
 
 <!---
 jupiiiii/jupiiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
